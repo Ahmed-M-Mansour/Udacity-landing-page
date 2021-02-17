@@ -1,6 +1,6 @@
 # Udacity-landing-page
 #installation
- yot do not need to install any thing just you have to open your browser to open the web page 
+ -You do not need to install any thing just you have to open your browser to open the web page 
 
 # The project details  
 - it's about Javascript DOM  and how to add some content to the page using JS. 
